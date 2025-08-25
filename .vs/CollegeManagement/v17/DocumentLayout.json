@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CollegeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|c:\\projects\\collegemanagement\\collegemanagement\\controllers\\collegecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|solutionrelative:collegemanagement\\controllers\\collegecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|c:\\projects\\collegemanagement\\collegemanagement\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|solutionrelative:collegemanagement\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|c:\\projects\\collegemanagement\\collegemanagement\\dto\\collegedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|solutionrelative:collegemanagement\\dto\\collegedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|c:\\projects\\collegemanagement\\collegemanagement\\models\\departmententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|solutionrelative:collegemanagement\\models\\departmententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|c:\\projects\\collegemanagement\\collegemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|solutionrelative:collegemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|c:\\projects\\collegemanagement\\collegemanagement\\models\\collegeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|solutionrelative:collegemanagement\\models\\collegeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|c:\\projects\\collegemanagement\\collegemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|solutionrelative:collegemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|c:\\projects\\collegemanagement\\collegemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|solutionrelative:collegemanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|c:\\projects\\collegemanagement\\collegemanagement\\models\\collegedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|solutionrelative:collegemanagement\\models\\collegedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|c:\\projects\\collegemanagement\\collegemanagement\\migrations\\20250820075813_college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C5AB43-6FBC-4DA0-B833-1B943C51F404}|CollegeManagement\\CollegeManagement.csproj|solutionrelative:collegemanagement\\migrations\\20250820075813_college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CollegeManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CollegeManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T05:55:52.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Dto\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "CollegeManagement\\Dto\\DepartmentDto.cs",
+              "ToolTip": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Dto\\DepartmentDto.cs",
+              "RelativeToolTip": "CollegeManagement\\Dto\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:26:00.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollegeDto.cs",
+              "DocumentMoniker": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Dto\\CollegeDto.cs",
+              "RelativeDocumentMoniker": "CollegeManagement\\Dto\\CollegeDto.cs",
+              "ToolTip": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Dto\\CollegeDto.cs",
+              "RelativeToolTip": "CollegeManagement\\Dto\\CollegeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:25:19.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\CollegeManagement\\CollegeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "CollegeManagement\\appsettings.json",
+              "ToolTip": "C:\\Projects\\CollegeManagement\\CollegeManagement\\appsettings.json",
+              "RelativeToolTip": "CollegeManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T10:04:05.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "CollegeManagement\\Program.cs",
+              "ToolTip": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Program.cs",
+              "RelativeToolTip": "CollegeManagement\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:03:12.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollegeController.cs",
+              "DocumentMoniker": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Controllers\\CollegeController.cs",
+              "RelativeDocumentMoniker": "CollegeManagement\\Controllers\\CollegeController.cs",
+              "ToolTip": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Controllers\\CollegeController.cs",
+              "RelativeToolTip": "CollegeManagement\\Controllers\\CollegeController.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAlwLcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:02:02.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CollegeDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Models\\CollegeDbContext.cs",
+              "RelativeDocumentMoniker": "CollegeManagement\\Models\\CollegeDbContext.cs",
+              "ToolTip": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Models\\CollegeDbContext.cs",
+              "RelativeToolTip": "CollegeManagement\\Models\\CollegeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T12:56:15.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Models\\DepartmentEntity.cs",
+              "RelativeDocumentMoniker": "CollegeManagement\\Models\\DepartmentEntity.cs",
+              "ToolTip": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Models\\DepartmentEntity.cs",
+              "RelativeToolTip": "CollegeManagement\\Models\\DepartmentEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T12:51:47.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CollegeEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Models\\CollegeEntity.cs",
+              "RelativeDocumentMoniker": "CollegeManagement\\Models\\CollegeEntity.cs",
+              "ToolTip": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Models\\CollegeEntity.cs",
+              "RelativeToolTip": "CollegeManagement\\Models\\CollegeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T12:51:26.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250820075813_College.cs",
+              "DocumentMoniker": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Migrations\\20250820075813_College.cs",
+              "RelativeDocumentMoniker": "CollegeManagement\\Migrations\\20250820075813_College.cs",
+              "ToolTip": "C:\\Projects\\CollegeManagement\\CollegeManagement\\Migrations\\20250820075813_College.cs",
+              "RelativeToolTip": "CollegeManagement\\Migrations\\20250820075813_College.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:58:13.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
